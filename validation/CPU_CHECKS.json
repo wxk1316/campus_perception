@@ -1,0 +1,14 @@
+{
+  "tests_passed": 52,
+  "filter_modes": [
+    "cv",
+    "imm"
+  ],
+  "imm_bank": [
+    "CV",
+    "CA"
+  ],
+  "old_detect_files": "unchanged",
+  "review": "specific findings fixed; same-family/provisional",
+  "gpu_ros_vehicle": "not executed on macOS"
+}
